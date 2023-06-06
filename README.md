@@ -8,7 +8,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ##  İnstallation
 
-Github Addresim (https://github.com/bkarlida/kodluyoruzilkrepo.git)
+Github Adresim (https://github.com/bkarlida/kodluyoruzilkrepo.git)
 
 ### Usage
 ```
