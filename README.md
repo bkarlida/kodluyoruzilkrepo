@@ -15,3 +15,7 @@ Github Addresime [buradan]ulaşabilirsiniz(https://github.com/bkarlida/kodluyoru
 cd kodluyoruz
 code .
 ```
+
+##  License
+
+[MIT]ulaşabilirsiniz(https://github.com/bkarlida/kodluyoruzilkrepo.git)
