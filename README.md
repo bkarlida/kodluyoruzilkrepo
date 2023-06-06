@@ -2,7 +2,6 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ##  İnstallation
-'''
-https://github.com/bkarlida/kodluyoruzilkrepo.git
 
-'''
+[clon adresss](https://github.com/bkarlida/kodluyoruzilkrepo.git)
+
