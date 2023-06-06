@@ -18,4 +18,4 @@ code .
 
 ##  License
 
-[MIT]ulaşabilirsiniz(https://github.com/bkarlida/kodluyoruzilkrepo.git)
+[MIT](https://choosealicense.com/licenses/mit/)
