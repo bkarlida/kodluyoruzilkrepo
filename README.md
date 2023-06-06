@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
 
-![my profil](/User/burakkarlidag/Desktop/kod)
+![my profil](/User/burakkarlidag/Desktop/kod.png)
 
 
 ##  İnstallation
