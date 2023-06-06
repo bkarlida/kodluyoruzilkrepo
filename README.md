@@ -3,5 +3,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ##  İnstallation
 
-[clon adresss](https://github.com/bkarlida/kodluyoruzilkrepo.git)
+Github Adresime [buradan](https://github.com/bkarlida/kodluyoruzilkrepo.git)
 
